@@ -1,0 +1,5 @@
+https://developers.google.com/maps/documentation/javascript/tutorial
+https://bootswatch.com/cosmo/
+https://www.bootstrapcdn.com/bootswatch/
+https://getbootstrap.com/docs/4.3/getting-started/introduction/
+https://notifyjs.jpillora.com/
