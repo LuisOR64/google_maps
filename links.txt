@@ -7,3 +7,9 @@ https://mapstyle.withgoogle.com/
 
 git init -> iniciarl la carpeta actual con un sistema de versionamiento
 git status -> ver la situacion actual de todos los archivos de la carpeta seleccionada
+git add . -> para alista
+git comit -m "nombre del commit" -> para subir el proyecto
+
+https://gist.github.com/dasdo/9ff71c5c0efa037441b6
+git remote add...
+git push -u...
