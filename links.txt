@@ -3,3 +3,7 @@ https://bootswatch.com/cosmo/
 https://www.bootstrapcdn.com/bootswatch/
 https://getbootstrap.com/docs/4.3/getting-started/introduction/
 https://notifyjs.jpillora.com/
+https://mapstyle.withgoogle.com/
+
+git init -> iniciarl la carpeta actual con un sistema de versionamiento
+git status -> ver la situacion actual de todos los archivos de la carpeta seleccionada

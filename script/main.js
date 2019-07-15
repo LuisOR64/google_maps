@@ -1,9 +1,9 @@
-import {styles_map} from './variable.js';
+import {styles_map, default_center} from './variable.js';
 $(()=>{
     var map;
     
     map = new google.maps.Map(document.getElementById('map'), {
-       center: {lat: -16.4302734, lng: -71.5190854},
+       center: default_center,
        zoom: 8,
        styles: styles_map
     });

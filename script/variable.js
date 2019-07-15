@@ -1,6 +1,5 @@
 // para indicar que esta variable va a ser exportada
-export var styles_map=
-[
+export var styles_map=[
     {
       "featureType": "poi.park",
       "elementType": "geometry.fill",
@@ -20,3 +19,5 @@ export var styles_map=
       ]
     }
   ];
+
+export var default_center={lat: -16.4302734, lng: -71.5190854};
